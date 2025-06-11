@@ -8,7 +8,7 @@ I'm a Developer with a passion for continuous learning and adaptability. I excel
 
 ## 📱 My Project
 
-### Jongsy Application - Booking System Application
+### Jonggy Application - Booking System Application
 
 A full-featured restaurant reservation mobile app developed using **React Native** and **Node.js**, enabling users to:
 
