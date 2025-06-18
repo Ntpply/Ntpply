@@ -49,5 +49,5 @@ College of Computing
 ## 📞 Contact
 
 - **Phone:** +66 96 165 3759  
-- **Email:** nitipoom.pi@gmail.com  
+- **Email:** Ntptv2545@gmail.com 
 
