@@ -25,6 +25,7 @@ A full-featured restaurant reservation mobile app developed using **React Native
 - CSS
 - Vue.js
 - Next.js
+- Flutter
 
 ### Back-End
 - Node.js
