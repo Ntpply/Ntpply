@@ -24,10 +24,10 @@
         <br><br>
         <p>🎯 <strong>Features:</strong></p>
         <ul align="left">
-          <li>📅 Table reservation system</li>
-          <li>🍔 Pre-order food functionality</li>
-          <li>📱 Cross-platform mobile app</li>
-          <li>🔐 User authentication</li>
+          <li>Table reservation system</li>
+          <li>Pre-order food functionality</li>
+          <li>Cross-platform mobile app</li>
+          <li>User authentication</li>
         </ul>
         <h3>💬 Chat Group</h3>
         <p><strong>Full-Featured Chat System</strong></p>
@@ -36,10 +36,10 @@
         <br><br>
         <p>🎯 <strong>Features:</strong></p>
         <ul align="left">
-          <li>👥 Group chat functionality</li>
-          <li>📹 Video call integration</li>
-          <li>🔄 Real-time messaging</li>
-          <li>📱 Mobile-first design</li>
+          <li>Group chat functionality</li>
+          <li>Video call integration</li>
+          <li>Real-time messaging</li>
+          <li>Mobile-first design</li>
         </ul>
 </div>
 
@@ -80,7 +80,6 @@
         <h3>🏛️ Khon Kaen University</h3>
         <p><strong>College of Computing</strong></p>
         <p>📅 <strong>Duration:</strong> 2021 – 2025</p>
-        <p>🎯 <strong>Focus:</strong> Computer Science & Software Engineering</p>
 </div>
 
 ---
@@ -92,17 +91,11 @@
         <p><strong>+66 96 165 3759</strong></p>
         <h3>📧 Email</h3>
         <p><strong>Ntptv2545@gmail.com</strong></p>
-  <br>
-  
-  
-  <p>
-    <em>💡 "Always learning, always growing, always coding!"</em>
-  </p>
-  
 </div>
 
 ---
 
 <div align="center">
-  <p>⭐ Star this repo if you like it!</p>
+ <p>
+    <em>💡 "Always learning, always growing, always coding!"</em>
 </div>
