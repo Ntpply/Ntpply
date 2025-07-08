@@ -23,13 +23,9 @@
 
 ---
 
-## 🌟 **Featured Projects**
+## 🌟 **My Projects**
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
+<div>
         <h3>🍽️ Jonggy Application</h3>
         <p><strong>Restaurant Booking System</strong></p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
@@ -42,8 +38,6 @@
           <li>📱 Cross-platform mobile app</li>
           <li>🔐 User authentication</li>
         </ul>
-      </td>
-      <td align="center" width="50%">
         <h3>💬 Chat Group</h3>
         <p><strong>Full-Featured Chat System</strong></p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
@@ -56,17 +50,13 @@
           <li>🔄 Real-time messaging</li>
           <li>📱 Mobile-first design</li>
         </ul>
-      </td>
-    </tr>
-  </table>
-  
 </div>
 
 ---
 
 ## 💻 **Tech Stack**
 
-<div align="center">
+<div>
 
 ### 🎨 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
