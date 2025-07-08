@@ -15,6 +15,12 @@ A full-featured restaurant reservation mobile app developed using **React Native
 - Reserve tables
 - Pre-order food
 
+### Chat group - Chat Full System Application
+
+A full-featured Chat for mobile app developed using **Flutter** and **Node.js**, enabling users to:
+
+- GroupChat
+- Video Call
 
 ## 🛠️ Skills
 
