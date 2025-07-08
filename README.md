@@ -14,7 +14,7 @@
 ## 🌟 **My Projects**
 
 <div>
-        <h3>🍽️ Jonggy Application</h3>
+        <h3>Jonggy Application</h3>
         <p><strong>Restaurant Booking System</strong></p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -26,7 +26,7 @@
           <li>Cross-platform mobile app</li>
           <li>User authentication</li>
         </ul>
-        <h3>💬 Chat Group</h3>
+        <h3>Chat Group</h3>
         <p><strong>Full-Featured Chat System</strong></p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
