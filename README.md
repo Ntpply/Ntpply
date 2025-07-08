@@ -4,9 +4,6 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=80&lines=Full+Stack+Developer;AI+Enthusiast;Continuous+Learner;Problem+Solver)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitipoom-piyayont)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ntptv2545@gmail.com)
   
 </div>
 
@@ -95,29 +92,6 @@
 
 ---
 
-## 📈 **GitHub Stats**
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
 
 ## 🎓 **Education**
 
@@ -126,8 +100,6 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/University-Khon_Kaen_University-blue?style=for-the-badge&logo=university&logoColor=white" alt="University">
-        <br>
         <h3>🏛️ Khon Kaen University</h3>
         <p><strong>College of Computing</strong></p>
         <p>📅 <strong>Duration:</strong> 2021 – 2025</p>
@@ -143,25 +115,12 @@
 ## 🤝 **Let's Connect!**
 
 <div align="center">
-  
-  <table>
-    <tr>
-      <td align="center">
         <h3>📱 Phone</h3>
         <p><strong>+66 96 165 3759</strong></p>
-      </td>
-      <td align="center">
         <h3>📧 Email</h3>
         <p><strong>Ntptv2545@gmail.com</strong></p>
-      </td>
-    </tr>
-  </table>
-  
   <br>
   
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
-  </p>
   
   <p>
     <em>💡 "Always learning, always growing, always coding!"</em>
@@ -172,12 +131,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake Game">
-</div>
-
----
-
-<div align="center">
-  <p>Made with ❤️ and lots of ☕</p>
   <p>⭐ Star this repo if you like it!</p>
 </div>
