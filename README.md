@@ -1,14 +1,5 @@
 # Hi there! 👋 I'm **Nitipoom Piyayont**
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=80&lines=Full+Stack+Developer;AI+Enthusiast;Continuous+Learner;Problem+Solver)
-  
-  
-</div>
-
----
-
 ## 🚀 **About Me**
 
 > *"A passionate developer with a commitment to continuous learning and adaptability"*
@@ -85,26 +76,18 @@
 
 ## 🎓 **Education**
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center">
+<div>
         <h3>🏛️ Khon Kaen University</h3>
         <p><strong>College of Computing</strong></p>
         <p>📅 <strong>Duration:</strong> 2021 – 2025</p>
         <p>🎯 <strong>Focus:</strong> Computer Science & Software Engineering</p>
-      </td>
-    </tr>
-  </table>
-  
 </div>
 
 ---
 
 ## 🤝 **Let's Connect!**
 
-<div align="center">
+<div>
         <h3>📱 Phone</h3>
         <p><strong>+66 96 165 3759</strong></p>
         <h3>📧 Email</h3>
