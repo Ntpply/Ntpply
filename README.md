@@ -5,13 +5,10 @@
 > *"A passionate developer with a commitment to continuous learning and adaptability"*
 
 🎯 **What I Do:**
-- 💻 Build **scalable applications** with modern technologies
-- 🤖 Leverage **AI tools** to enhance productivity and code quality
-- 🔧 Excel at **rapid technology adoption** and problem-solving
-- 🤝 Collaborate effectively in **team environments**
-
-🎓 **Currently:** Computer Science Student at Khon Kaen University (2021-2025)
-
+- Build **scalable applications** with modern technologies
+- Leverage **AI tools** to enhance productivity and code quality
+- Excel at **rapid technology adoption** and problem-solving
+- Collaborate effectively in **team environments**
 ---
 
 ## 🌟 **My Projects**
