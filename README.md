@@ -1,60 +1,183 @@
+# Hi there! 👋 I'm **Nitipoom Piyayont**
 
-# Hi I'm Nitipoom Piyayont
-
-
-I'm a Developer with a passion for continuous learning and adaptability. I excel at picking up new technologies quickly and effectively leverage AI tools to enhance productivity—from planning and coding to debugging and optimization. With a strong commitment to quality and collaboration, I strive to build efficient, scalable applications and contribute meaningfully to every project I take on.
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=80&lines=Full+Stack+Developer;AI+Enthusiast;Continuous+Learner;Problem+Solver)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitipoom-piyayont)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ntptv2545@gmail.com)
+  
+</div>
 
 ---
 
-## 📱 My Project
+## 🚀 **About Me**
 
-### Jonggy Application - Booking System Application
+> *"A passionate developer with a commitment to continuous learning and adaptability"*
 
-A full-featured restaurant reservation mobile app developed using **React Native** and **Node.js**, enabling users to:
+🎯 **What I Do:**
+- 💻 Build **scalable applications** with modern technologies
+- 🤖 Leverage **AI tools** to enhance productivity and code quality
+- 🔧 Excel at **rapid technology adoption** and problem-solving
+- 🤝 Collaborate effectively in **team environments**
 
-- Reserve tables
-- Pre-order food
+🎓 **Currently:** Computer Science Student at Khon Kaen University (2021-2025)
 
-### Chat group - Chat Full System Application
+---
 
-A full-featured Chat for mobile app developed using **Flutter** and **Node.js**, enabling users to:
+## 🌟 **Featured Projects**
 
-- GroupChat
-- Video Call
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🍽️ Jonggy Application</h3>
+        <p><strong>Restaurant Booking System</strong></p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <br><br>
+        <p>🎯 <strong>Features:</strong></p>
+        <ul align="left">
+          <li>📅 Table reservation system</li>
+          <li>🍔 Pre-order food functionality</li>
+          <li>📱 Cross-platform mobile app</li>
+          <li>🔐 User authentication</li>
+        </ul>
+      </td>
+      <td align="center" width="50%">
+        <h3>💬 Chat Group</h3>
+        <p><strong>Full-Featured Chat System</strong></p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <br><br>
+        <p>🎯 <strong>Features:</strong></p>
+        <ul align="left">
+          <li>👥 Group chat functionality</li>
+          <li>📹 Video call integration</li>
+          <li>🔄 Real-time messaging</li>
+          <li>📱 Mobile-first design</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
-## 🛠️ Skills
+---
 
-### Front-End
-- React
-- React Native
-- HTML
-- CSS
-- Vue.js
-- Next.js
-- Flutter
+## 💻 **Tech Stack**
 
-### Back-End
-- Node.js
-- Socket.io
-- PHP
-- FastAPI
+<div align="center">
 
-### Database
-- MongoDB
-- MySQL
-- PostgreSQL
+### 🎨 **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### ⚙️ **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## 🎓 Education
+### 🗄️ **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Khon Kaen University**  
-College of Computing  
-**Year:** 2021 – 2025 (2564–2568)
+</div>
 
+---
 
+## 📈 **GitHub Stats**
 
-## 📞 Contact
+<div align="center">
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
-- **Phone:** +66 96 165 3759  
-- **Email:** Ntptv2545@gmail.com 
+---
 
+## 🎓 **Education**
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/University-Khon_Kaen_University-blue?style=for-the-badge&logo=university&logoColor=white" alt="University">
+        <br>
+        <h3>🏛️ Khon Kaen University</h3>
+        <p><strong>College of Computing</strong></p>
+        <p>📅 <strong>Duration:</strong> 2021 – 2025</p>
+        <p>🎯 <strong>Focus:</strong> Computer Science & Software Engineering</p>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+## 🤝 **Let's Connect!**
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center">
+        <h3>📱 Phone</h3>
+        <p><strong>+66 96 165 3759</strong></p>
+      </td>
+      <td align="center">
+        <h3>📧 Email</h3>
+        <p><strong>Ntptv2545@gmail.com</strong></p>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+  </p>
+  
+  <p>
+    <em>💡 "Always learning, always growing, always coding!"</em>
+  </p>
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake Game">
+</div>
+
+---
+
+<div align="center">
+  <p>Made with ❤️ and lots of ☕</p>
+  <p>⭐ Star this repo if you like it!</p>
+</div>
