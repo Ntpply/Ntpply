@@ -11,37 +11,6 @@
 - Collaborate effectively in **team environments**
 ---
 
-## 🌟 **My Projects**
-
-<div>
-        <h3>Jonggy Application</h3>
-        <p><strong>Restaurant Booking System</strong></p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-        <br><br>
-        <p>🎯 <strong>Features:</strong></p>
-        <ul align="left">
-          <li>Table reservation system</li>
-          <li>Pre-order food functionality</li>
-          <li>Cross-platform mobile app</li>
-          <li>User authentication</li>
-        </ul>
-        <h3>Chat Group</h3>
-        <p><strong>Full-Featured Chat System</strong></p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-        <br><br>
-        <p>🎯 <strong>Features:</strong></p>
-        <ul align="left">
-          <li>Group chat functionality</li>
-          <li>Video call integration</li>
-          <li>Real-time messaging</li>
-          <li>Mobile-first design</li>
-        </ul>
-</div>
-
----
-
 ## 💻 **Tech Stack**
 
 <div>
